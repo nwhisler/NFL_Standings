@@ -1,0 +1,9 @@
+.team_table, .table_header, td {
+    border: 1px solid;
+}
+
+#Standings, #predictions {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
