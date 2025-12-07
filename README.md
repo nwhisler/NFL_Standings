@@ -1,1 +1,1 @@
-###This code pulls, processes, and displays up-to-date NFL standings and stats while performing Linear Regression to showcase what the current standings could be based on each team's total touchdowns compared to the league average.
+### This code pulls, processes, and displays up-to-date NFL standings and stats while performing Linear Regression to showcase what the current standings could be based on each team's total touchdowns compared to the league average.
