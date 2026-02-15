@@ -1,4 +1,4 @@
-const url = "https://api.sportsdata.io/v3/nfl/scores/json/Standings/2025?key=cfb35f5dd36b4d2fba8fed231b18c169";
+const url = "https://api.sportsdata.io/v3/nfl/scores/json/Standings/2025?key=api_key";
 
 /*
 
@@ -322,5 +322,6 @@ function presentData(y_predictions) {
     table_html("NFC_North_Predictions", NFC_North);
     table_html("NFC_South_Predictions", NFC_South);
     table_html("NFC_West_Predictions", NFC_West);
+
 
 }
