@@ -20,6 +20,7 @@ The app fetches standings via SportsDataIO:
 * Endpoint used in `generating_data.js`:
 
   * `https://api.sportsdata.io/v3/nfl/scores/json/Standings/2025?key=<API_KEY>`
+  * `A free tier API key is provided for a trial run of the program`
 
 You must have a **SportsDataIO API key** and set it in the URL.
 
